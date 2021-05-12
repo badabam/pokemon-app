@@ -3,3 +3,15 @@
   background: #efefef;
   border-radius: 8px;
 }
+.Card--darkmode {
+  background: #666;
+  color: white;
+}
+
+.Card .Button {
+  background: hotpink;
+}
+
+.Card .Button.active {
+  background: steelblue;
+}
